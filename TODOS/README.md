@@ -2,5 +2,5 @@
 ✏️ Udemy { SwiftUI MasterClass 2023 } 스터디 3조
 
 
-# AFRICA 
+# TODOS 
 
